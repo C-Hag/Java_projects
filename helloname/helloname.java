@@ -1,3 +1,4 @@
+package helloname;
 import java.util.Scanner; 
 
 class helloname {
