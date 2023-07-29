@@ -9,6 +9,11 @@ public class Account {
         // implementation
     }
 
+    public double calculateCreditWorthines () {
+        // implementation
+        return 100;
+    }
+
     /**
      * @return String return the owner
      */
